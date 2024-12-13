@@ -4,10 +4,10 @@
     - [X] Validate data quality
     - [X] Format check
 
-- [ ] Data Processing
-    - [ ] Convert JSON to required format for Ollama
-    - [ ] Split into training/validation sets
-    - [ ] Data cleaning and formatting
+- [X] Data Processing
+    - [X] Convert JSON to required format for Ollama
+    - [X] Split into training/validation sets
+    - [X] Data cleaning and formatting
 
 - [ ] Model Selection
     - [ ] Choose base model (currently using llama3)
