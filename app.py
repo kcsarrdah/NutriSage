@@ -9,7 +9,7 @@ import pickle
 
 # Initialize theme in session state
 if 'theme' not in st.session_state:
-    st.session_state.theme = 'light'
+    st.session_state.theme = 'dark'
 
 # Custom theme configurations
 def get_theme_config():
