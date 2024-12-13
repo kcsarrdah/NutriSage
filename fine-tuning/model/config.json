@@ -1,0 +1,10 @@
+{
+    "model_type": "llama",
+    "model_name": "nutrisage-v1",
+    "hidden_size": 4096,
+    "num_attention_heads": 32,
+    "num_hidden_layers": 32,
+    "vocab_size": 32000,
+    "max_position_embeddings": 2048,
+    "initializer_range": 0.02
+}

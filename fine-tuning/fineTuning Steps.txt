@@ -10,7 +10,7 @@
     - [X] Data cleaning and formatting
 
 - [ ] Model Selection
-    - [ ] Choose base model (currently using llama3)
+    - [X] Choose base model (currently using llama3)
     - [ ] Set parameters
     - [ ] Configure training settings
 

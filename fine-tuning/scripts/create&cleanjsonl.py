@@ -110,5 +110,5 @@ def process_training_data(input_file):
         print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    input_file = "training_data.json"
+    input_file = "../data/training_data.json"
     process_training_data(input_file)

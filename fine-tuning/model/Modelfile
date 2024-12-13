@@ -1,0 +1,17 @@
+FROM llama2
+
+# Model configuration
+PARAMETER temperature 0.7
+PARAMETER top_k 40
+PARAMETER top_p 0.95
+PARAMETER repeat_penalty 1.1
+PARAMETER stop "### Human:"
+PARAMETER stop "### Assistant:"
+
+# System prompt
+SYSTEM """You are NutriSage, an AI nutrition assistant trained on dietary guidelines and nutritional information. Always provide accurate, evidence-based answers about nutrition, diet, and food. Base your responses on scientific evidence and official dietary guidelines."""
+
+# Template for input/output formatting
+TEMPLATE """{{ .Prompt }}
+
+{{ .Response }}"""

@@ -10,3 +10,4 @@ evaluate>=0.4.1
 pdfplumber>=0.11.4
 numpy>=1.26.0
 pillow>=10.2.0
+

@@ -1,0 +1,9 @@
+{
+    "model_name": "nutrisage-v1",
+    "base_model": "llama2",
+    "epochs": 3,
+    "batch_size": 4,
+    "learning_rate": 2e-5,
+    "train_data": "../data/nutrisage_train.jsonl",
+    "val_data": "../data/nutrisage_val.jsonl"
+}
