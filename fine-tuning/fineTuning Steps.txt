@@ -1,0 +1,35 @@
+- [X ] Data Collection & Preparation
+    - [X] Create training dataset in JSON format
+    - [X] Generate QA pairs from our documents
+    - [X] Validate data quality
+    - [X] Format check
+
+- [ ] Data Processing
+    - [ ] Convert JSON to required format for Ollama
+    - [ ] Split into training/validation sets
+    - [ ] Data cleaning and formatting
+
+- [ ] Model Selection
+    - [ ] Choose base model (currently using llama3)
+    - [ ] Set parameters
+    - [ ] Configure training settings
+
+- [ ] Fine-tuning Process
+    - [ ] Train model on prepared dataset
+    - [ ] Monitor training metrics
+    - [ ] Validate progress
+
+- [ ] Model Evaluation
+    - [ ] Test model performance
+    - [ ] Compare with base model
+    - [ ] Evaluate responses
+
+- [ ] Integration
+    - [ ] Integrate fine-tuned model with existing RAG
+    - [ ] Update prompts if needed
+    - [ ] Deploy updated system
+
+- [ ] Testing & Iteration
+    - [ ] User testing
+    - [ ] Collect feedback
+    - [ ] Make improvements

@@ -34,6 +34,16 @@ pdf_files = {
         'path': "data/Nutritive_Value_of_Foods.pdf",
         'description': "Nutritional Values Database",
         'use_plumber': True
+    },
+    'f': {
+        'path': "data/Introduction_to_Human_Nutrition.pdf",
+        'description': "Human Nutrition Fundamentals",
+        'use_plumber': False
+    },
+    'g': {
+        'path': "data/Total_Kcal_Data.pdf",
+        'description': "Food Calorie Database",
+        'use_plumber': False
     }
 }
 
@@ -77,12 +87,10 @@ def create_vector_db():
     print(f"\nTotal loaded: {total_pages} pages from {len(documents)} documents")
 
     # Split documents into sections
-    print("\nSplitting documents into sections...")
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=2000,
-        chunk_overlap=200,
-        length_function=len,
-        add_start_index=True
+        chunk_size=1500,  # Slightly larger to keep related entries together
+        chunk_overlap=150,  # More overlap to avoid splitting entries
+        separators=["\n\n", "\n", ".", " ", ""],  # Better handling of tabular data
     )
     sections = text_splitter.split_documents(documents)
     print(f"Created {len(sections)} sections")

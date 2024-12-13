@@ -40,15 +40,20 @@ def search_faiss(query, k=3):
     return results
 
 # Create a prompt template
+
 prompt_template = """
-You are an AI assistant specialized in dietary guidelines. Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+You are a nutrition expert with access to a food database. For questions about specific foods:
+1. First state the exact nutritional values found in the data
+2. Distinguish between different variations (e.g., single vs double patty)
+3. Include portion sizes when available
+4. List all nutrients mentioned in the data
 
 Context:
 {context}
 
 Question: {question}
 
-Answer:"""
+Provide nutritional information in a clear, structured format:"""
 
 prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
 

@@ -1,0 +1,89 @@
+{
+    "metadata": {
+      "version": "1.0",
+      "description": "NutriSage Training Data Categories",
+      "purpose": "Fine-tuning nutrition assistant"
+    },
+    "categories": {
+      "nutritional_values": {
+        "description": "Questions about specific nutritional content",
+        "types": {
+          "direct_queries": ["How many calories in X?", "What's the protein content of Y?"],
+          "negative_cases": ["What if this food isn't listed?", "Can you guess the calories?"],
+          "unclear_queries": ["How bad is this food?", "Is this healthy enough?"]
+        }
+      },
+      "dietary_guidelines": {
+        "description": "Questions about recommended intakes and guidelines",
+        "types": {
+          "recommended_intakes": ["How much protein per day?", "What's the recommended fiber intake?"],
+          "restrictions": ["How much sugar is too much?", "Should I limit red meat?"],
+          "negative_cases": ["Can I eat unlimited protein?", "Is it ok to skip all carbs?"]
+        }
+      },
+      "health_impact": {
+        "description": "Questions about food effects on health",
+        "types": {
+          "benefits": ["What are the benefits of eating fish?", "How does fiber help health?"],
+          "risks": ["What are the risks of too much sugar?", "Is too much protein bad?"],
+          "misconceptions": ["Does eating late cause weight gain?", "Does dairy always cause problems?"]
+        }
+      },
+      "food_comparisons": {
+        "description": "Questions comparing different foods",
+        "types": {
+          "direct_comparisons": ["Is brown rice healthier than white?", "Which has more protein?"],
+          "substitutions": ["What can I use instead of eggs?", "Healthy alternatives to sugar?"],
+          "negative_cases": ["Is organic always better?", "Is expensive always healthier?"]
+        }
+      },
+      "portion_control": {
+        "description": "Questions about serving sizes",
+        "types": {
+          "serving_sizes": ["What's a serving of chicken?", "How much pasta is one portion?"],
+          "measurement_guidance": ["How do I measure portions?", "What does 3 ounces look like?"],
+          "negative_cases": ["Can I eyeball everything?", "Does portion size really matter?"]
+        }
+      },
+      "special_diets": {
+        "description": "Questions about specific dietary needs",
+        "types": {
+          "restrictions": ["What can I eat on keto?", "Gluten-free options?"],
+          "medical_conditions": ["Diabetic-friendly foods?", "Low-sodium alternatives?"],
+          "negative_cases": ["Will this diet fix everything?", "Can I mix all diets?"]
+        }
+      },
+      "meal_planning": {
+        "description": "Questions about meal organization",
+        "types": {
+          "timing": ["When should I eat protein?", "Best time for carbs?"],
+          "combinations": ["What goes well with chicken?", "How to balance a meal?"],
+          "negative_cases": ["Can I eat once a day?", "Is snacking always bad?"]
+        }
+      },
+      "recipe_modifications": {
+        "description": "Questions about changing recipes",
+        "types": {
+          "substitutions": ["What can replace eggs?", "Sugar alternatives?"],
+          "adjustments": ["How to make it low-fat?", "Making recipe keto-friendly?"],
+          "negative_cases": ["Can I skip all ingredients?", "Does cooking time matter?"]
+        }
+      },
+      "common_misconceptions": {
+        "description": "Questions about nutrition myths",
+        "types": {
+          "diet_myths": ["Does eating late cause weight gain?", "Is all fat bad?"],
+          "false_claims": ["Do detox diets work?", "Is organic always better?"],
+          "marketing_hype": ["Are superfoods real?", "Natural vs processed?"]
+        }
+      },
+      "edge_cases": {
+        "description": "Challenging or ambiguous questions",
+        "types": {
+          "ambiguous": ["Is this good?", "What should I eat?"],
+          "out_of_scope": ["Can you make me a meal plan?", "What's wrong with me?"],
+          "invalid_assumptions": ["This will cure everything, right?", "I never need to exercise?"]
+        }
+      }
+    }
+  }

@@ -1,0 +1,1024 @@
+{
+    "training_data":{
+       "nutritional_values":[
+          {
+             "question":"What are the calories in a cheeseburger?",
+             "answer":"A single patty cheeseburger contains 295 calories with 16g protein and 14g fat. A double patty cheeseburger contains 417 calories with 21g protein and 21g fat.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How much protein is in chicken breast?",
+             "answer":"A 3.5 oz (100g) serving of skinless chicken breast contains 31g of protein and 165 calories.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's the nutritional value of brown rice?",
+             "answer":"One cup (195g) of cooked brown rice provides 216 calories, 45g carbohydrates, 5g protein, and 2g fiber.",
+             "source":"Total_Kcal_Data"
+          },
+          {
+             "question":"How many calories are in an apple?",
+             "answer":"A medium apple (182g) contains 95 calories, 25g carbohydrates, 4g fiber, and 14g natural sugar.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's the fat content in avocado?",
+             "answer":"One medium avocado (150g) contains 240 calories and 22g of fat, mostly healthy monounsaturated fat, along with 3g protein and 9g fiber.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What are the nutrients in a banana?",
+             "answer":"A medium banana (118g) contains 105 calories, 27g carbohydrates, 14g sugar, 3g fiber, and 422mg potassium.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How many calories in a slice of pizza?",
+             "answer":"A regular slice of cheese pizza (63g) contains approximately 170 calories, 6g protein, 7g fat, and 23g carbohydrates.",
+             "source":"Total_Kcal_Data"
+          },
+          {
+             "question":"What's the protein content in eggs?",
+             "answer":"One large egg (50g) contains 6g of protein, 5g fat, and 70 calories. The egg white contains about 3.6g of protein and only 17 calories.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How much fiber is in oatmeal?",
+             "answer":"One cup of cooked oatmeal (234g) provides 4g fiber, 6g protein, 27g carbohydrates, and 150 calories.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What are the macros in Greek yogurt?",
+             "answer":"One cup (245g) of plain nonfat Greek yogurt contains 130 calories, 23g protein, 9g carbohydrates, and 0.7g fat.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How many calories in salmon?",
+             "answer":"A 3.5 oz (100g) serving of salmon contains 208 calories, 22g protein, and 13g fat, primarily healthy omega-3 fatty acids.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's the sugar content in soda?",
+             "answer":"A 12 oz can of regular soda contains about 39g of added sugar and 140 calories, with no significant nutritional benefits.",
+             "source":"Total_Kcal_Data"
+          },
+          {
+             "question":"How much protein in a protein bar?",
+             "answer":"An average protein bar (60g) contains 20g protein, 210 calories, 7g fat, and 24g carbohydrates, though values vary by brand.",
+             "source":"Total_Kcal_Data"
+          },
+          {
+             "question":"What are the nutrients in spinach?",
+             "answer":"Raw spinach (100g) has 23 calories, 2.9g protein, 3.6g carbohydrates, and 2.2g fiber, plus high levels of vitamins A, K, and C.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How many calories in whole wheat bread?",
+             "answer":"One slice of whole wheat bread (28g) typically contains 70 calories, 3g protein, 12g carbohydrates, and 2g fiber.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's the nutritional value of almonds?",
+             "answer":"A 1-ounce serving of almonds (28g) contains 164 calories, 6g protein, 14g fat (mostly monounsaturated), and 3.5g fiber.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How much fat is in milk?",
+             "answer":"One cup (240ml) of whole milk contains 8g fat, 8g protein, 12g carbohydrates, and 150 calories. 2% milk has 5g fat and 120 calories.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What are the macros in sweet potato?",
+             "answer":"A medium sweet potato (130g) provides 103 calories, 24g carbohydrates, 2g protein, 4g fiber, and is high in vitamin A.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How many calories in peanut butter?",
+             "answer":"Two tablespoons (32g) of peanut butter contain 190 calories, 7g protein, 16g fat, and 7g carbohydrates.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's the protein in quinoa?",
+             "answer":"One cup of cooked quinoa (185g) contains 8g protein, 39g carbohydrates, 5g fiber, and 222 calories.",
+             "source":"Nutritive_Value_of_Foods"
+          }
+       ],
+       "dietary_guidelines":[
+          {
+             "question":"How much protein should I eat daily?",
+             "answer":"The recommended dietary allowance is 0.8g protein per kilogram of body weight. For a 150-pound person, that's about 54g protein daily.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the recommended daily water intake?",
+             "answer":"The general recommendation is 3.7 liters (15.5 cups) for men and 2.7 liters (11.5 cups) for women daily, including all beverages and food.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How many vegetables should I eat per day?",
+             "answer":"Adults should consume 2.5-3 cups of vegetables daily, including dark green, red/orange vegetables, legumes, and starchy vegetables.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the recommended fruit intake?",
+             "answer":"Adults should consume 1.5-2 cups of fruits daily, focusing on whole fruits rather than juices.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much fiber do I need daily?",
+             "answer":"Women should aim for 25g fiber daily, while men need 38g. Most people only consume about half of the recommended amount.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the daily sodium limit?",
+             "answer":"Limit sodium to less than 2,300mg per day. Those with hypertension should aim for less than 1,500mg daily.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much added sugar is okay per day?",
+             "answer":"Limit added sugars to less than 10% of daily calories. For a 2000-calorie diet, that's no more than 50g (12 teaspoons) of added sugar.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What percentage of calories should come from fat?",
+             "answer":"Adults should get 20-35% of daily calories from fat. For a 2000-calorie diet, that's 44-78g fat daily, focusing on healthy fats.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How many calories should I eat daily?",
+             "answer":"Daily calorie needs vary by age, sex, and activity level. Average needs are 2000-2600 calories for women and 2400-3000 for men.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the recommended grain intake?",
+             "answer":"Adults should consume 6-8 ounce equivalents of grains daily, with at least half being whole grains.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much dairy should I consume daily?",
+             "answer":"Adults should consume 3 cups of dairy or equivalent dairy products daily, preferably low-fat or fat-free options.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the recommended serving of meat?",
+             "answer":"A typical serving is 3-4 ounces (85-113g), about the size of a deck of cards. Aim for 5-6.5 ounce equivalents of protein foods daily.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How often should I eat fish?",
+             "answer":"Consume at least 8 ounces of seafood per week, particularly fatty fish rich in omega-3 fatty acids.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the limit for saturated fat?",
+             "answer":"Limit saturated fat to less than 10% of daily calories. For a 2000-calorie diet, that's no more than 22g saturated fat.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How many eggs can I eat per week?",
+             "answer":"Healthy adults can safely eat 1-2 eggs daily as part of a balanced diet. This fits within recommended protein and cholesterol guidelines.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the alcohol consumption limit?",
+             "answer":"If alcohol is consumed, limit to 2 drinks or less per day for men and 1 drink or less per day for women.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How many meals should I eat per day?",
+             "answer":"While there's no strict rule, eating 3 balanced meals plus 1-2 healthy snacks is commonly recommended to maintain energy and meet nutritional needs.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the recommended legume intake?",
+             "answer":"Consume 1.5-3 cups of legumes (beans, peas, lentils) per week as part of the protein foods and vegetable groups.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much vitamin D do I need daily?",
+             "answer":"Adults up to age 70 need 600 IU of vitamin D daily. Adults over 70 need 800 IU. Some may need supplements to meet this requirement.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the calcium requirement per day?",
+             "answer":"Adults need 1000-1200mg calcium daily. This can be met through dairy products, fortified foods, or supplements if necessary.",
+             "source":"Dietary_Guidelines"
+          }
+       ],
+       "health_impact":[
+          {
+             "question":"What are the health benefits of eating fish?",
+             "answer":"Fish, especially fatty fish, provides omega-3 fatty acids which support heart and brain health. It's also a lean protein source rich in vitamin D and selenium. Regular fish consumption is linked to reduced risk of heart disease and improved cognitive function.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How does fiber affect health?",
+             "answer":"Fiber aids digestion, helps maintain regular bowel movements, reduces cholesterol levels, controls blood sugar, and promotes feelings of fullness. It also supports gut health by feeding beneficial bacteria.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What happens if I eat too much sugar?",
+             "answer":"Excessive sugar intake can lead to weight gain, increased risk of type 2 diabetes, dental problems, and heart disease. It also contributes to inflammation and can affect mood and energy levels.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Is coffee good or bad for health?",
+             "answer":"Coffee in moderation (3-5 cups daily) has been linked to reduced risk of several diseases including type 2 diabetes and liver conditions. It contains antioxidants but can affect sleep if consumed late in the day.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do nuts benefit health?",
+             "answer":"Nuts provide healthy fats, protein, fiber, and various vitamins and minerals. Regular consumption is associated with reduced risk of heart disease, better weight management, and improved blood sugar control.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What are the benefits of eating whole grains?",
+             "answer":"Whole grains provide fiber, B vitamins, and minerals. They're linked to reduced risk of heart disease, type 2 diabetes, and certain cancers. They also help maintain healthy digestion and steady energy levels.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How does protein affect muscle health?",
+             "answer":"Protein is essential for building and repairing muscle tissue. Adequate protein intake, combined with exercise, helps maintain muscle mass, supports recovery, and prevents age-related muscle loss.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What happens if I don't eat enough vegetables?",
+             "answer":"Insufficient vegetable intake can lead to nutrient deficiencies, particularly in vitamins A, C, K, folate, and minerals. It may also increase risk of chronic diseases and digestive problems due to low fiber intake.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How does sodium affect blood pressure?",
+             "answer":"High sodium intake can increase blood pressure by causing the body to retain more water. This puts extra strain on blood vessels and the heart, potentially leading to hypertension.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What are the health effects of processed meats?",
+             "answer":"Regular consumption of processed meats is linked to increased risk of heart disease, certain cancers, and type 2 diabetes. They're often high in sodium and saturated fats.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How do antioxidants benefit health?",
+             "answer":"Antioxidants help protect cells from damage caused by free radicals, potentially reducing risk of chronic diseases. They support immune function and may slow aging processes.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What happens if I eat too much saturated fat?",
+             "answer":"Excessive saturated fat intake can raise LDL (bad) cholesterol levels, increasing risk of heart disease. It may also contribute to inflammation and weight gain.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How does vitamin D affect bone health?",
+             "answer":"Vitamin D is crucial for calcium absorption and bone mineralization. Insufficient levels can lead to weakened bones, increased fracture risk, and in severe cases, osteoporosis.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What are the benefits of fermented foods?",
+             "answer":"Fermented foods provide probiotics that support gut health, enhance immune function, and may improve digestion. They can also increase nutrient availability in foods.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How does dehydration affect the body?",
+             "answer":"Dehydration can cause fatigue, headaches, reduced cognitive function, and impaired physical performance. Severe dehydration can affect kidney function and cardiovascular health.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What happens when you skip meals?",
+             "answer":"Skipping meals can lead to low blood sugar, reduced energy, poor concentration, and overeating later. It may also slow metabolism and affect nutrient intake.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How do trans fats affect health?",
+             "answer":"Trans fats increase bad cholesterol while decreasing good cholesterol, significantly raising heart disease risk. They also promote inflammation and should be avoided.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What are the benefits of eating berries?",
+             "answer":"Berries are rich in antioxidants that protect against cell damage. They support brain health, may reduce cancer risk, and help control blood sugar levels.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How does alcohol affect nutrition?",
+             "answer":"Alcohol can interfere with nutrient absorption, provide empty calories, dehydrate the body, and affect liver function. It can also lead to poor food choices.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What happens if I eat too much protein?",
+             "answer":"Excessive protein intake can strain kidneys, cause dehydration, and may lead to calcium loss. Very high protein diets might also displace other important nutrients.",
+             "source":"Introduction_to_Human_Nutrition"
+          }
+       ],
+       "food_comparisons":[
+          {
+             "question":"Is brown rice better than white rice?",
+             "answer":"Brown rice is nutritionally superior as it contains more fiber (3.5g vs 0.6g per cup), protein, vitamins, and minerals. It has a lower glycemic index and provides more antioxidants.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which has more protein: chicken or fish?",
+             "answer":"Chicken breast typically has slightly more protein than most fish: 31g per 100g compared to about 22g in salmon. However, fatty fish provides beneficial omega-3 fatty acids.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Are sweet potatoes healthier than regular potatoes?",
+             "answer":"Sweet potatoes have more vitamin A and fiber, while regular potatoes have more potassium. Both are nutritious choices with similar calorie content (about 100 calories per medium potato).",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which is better: butter or margarine?",
+             "answer":"While butter is natural and contains vitamins A and D, some margarines are enriched with plant sterols and have less saturated fat. Choose soft margarines without trans fats.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Greek yogurt vs regular yogurt: which is better?",
+             "answer":"Greek yogurt has more protein (23g vs 9g per cup) and less sugar than regular yogurt. However, regular yogurt may have more calcium and costs less.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which nuts are most nutritious?",
+             "answer":"All nuts are nutritious, but almonds and walnuts stand out. Almonds have more protein and fiber, while walnuts are highest in omega-3 fatty acids.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Is whole grain bread better than white bread?",
+             "answer":"Whole grain bread has more fiber (2-4g vs <1g per slice), protein, vitamins, and minerals than white bread. It also has a lower glycemic index.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which has more nutrients: broccoli or cauliflower?",
+             "answer":"Broccoli has more vitamins C and K, fiber, and antioxidants than cauliflower. However, both are nutritious low-calorie vegetables with similar protein content.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Is olive oil healthier than vegetable oil?",
+             "answer":"Olive oil contains more heart-healthy monounsaturated fats and antioxidants. While both have similar calories, olive oil offers additional health benefits.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which milk alternative has the most protein?",
+             "answer":"Soy milk has the most protein (7g per cup) compared to almond (1g), oat (3g), or rice milk (1g). It's closest to dairy milk's protein content (8g).",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Fresh vs frozen vegetables: which is better?",
+             "answer":"Both are nutritionally similar. Frozen vegetables are often flash-frozen at peak ripeness, preserving nutrients. Fresh vegetables may lose nutrients during transport and storage.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Which has more fiber: quinoa or rice?",
+             "answer":"Quinoa has more fiber (5g vs 3.5g per cup) than brown rice and white rice (0.6g). It's also higher in protein and provides all essential amino acids.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Is wild salmon better than farmed salmon?",
+             "answer":"Wild salmon typically has more omega-3s and fewer calories than farmed salmon. However, both are nutritious protein sources rich in essential nutrients.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which fruit has the most vitamin C?",
+             "answer":"Among common fruits, oranges, strawberries, and kiwis have high vitamin C. One kiwi provides more vitamin C than an orange (64mg vs 51mg).",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Steel-cut vs rolled oats: what's the difference?",
+             "answer":"Both have similar nutrition, but steel-cut oats have a lower glycemic index and provide longer-lasting energy. They take longer to cook but offer a chewier texture.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which cheese has the most protein?",
+             "answer":"Parmesan cheese has the most protein (10g per oz), followed by Swiss (8g) and cheddar (7g). However, harder cheeses are also higher in sodium.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Is dark chocolate healthier than milk chocolate?",
+             "answer":"Dark chocolate has more antioxidants, less sugar, and less fat than milk chocolate. It also contains more beneficial compounds like flavonoids.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Which beans have the most fiber?",
+             "answer":"Navy beans have the most fiber (19g per cup), followed by black beans (15g) and kidney beans (13g). All beans are excellent sources of fiber and protein.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Is sea salt healthier than table salt?",
+             "answer":"Both have similar sodium content. While sea salt may contain trace minerals, table salt is fortified with iodine, an essential nutrient.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Which green vegetable is most nutritious?",
+             "answer":"Kale leads in overall nutrition, with more vitamin K, C, and A than most greens. However, spinach, Swiss chard, and collards are also highly nutritious.",
+             "source":"Nutritive_Value_of_Foods"
+          }
+       ],
+       "portion_control":[
+          {
+             "question":"What's a serving size of chicken?",
+             "answer":"A serving of chicken is 3-4 ounces (85-113g), about the size of a deck of cards or the palm of your hand.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much is one serving of pasta?",
+             "answer":"One serving of cooked pasta is 1/2 cup (85g), about the size of a tennis ball. This provides roughly 110 calories.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's a proper portion of rice?",
+             "answer":"One serving of cooked rice is 1/2 cup (100g). For brown rice, this provides about 110 calories and 2g fiber.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How much cheese is one serving?",
+             "answer":"One serving of cheese is 1.5 ounces (43g), about the size of four stacked dice or your thumb.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's a serving of nuts?",
+             "answer":"One serving of nuts is 1 ounce (28g), about a small handful or 23 almonds, 49 pistachios, or 14 walnut halves.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How do I measure vegetables?",
+             "answer":"One cup of raw leafy vegetables or 1/2 cup of other vegetables is one serving. For reference, a half cup is about the size of a light bulb.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's a serving of fruit?",
+             "answer":"One serving is typically 1 medium piece of fruit, 1/2 cup chopped fruit, or 1/4 cup dried fruit.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much meat is too much per meal?",
+             "answer":"A healthy portion of meat should not exceed 5-6 ounces per meal. This is about the size of two decks of cards.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's a serving of peanut butter?",
+             "answer":"One serving of peanut butter is 2 tablespoons (32g), about the size of a ping pong ball.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How do I measure portion sizes without scales?",
+             "answer":"Use everyday objects: a deck of cards (3oz meat), tennis ball (1/2 cup), golf ball (2 tbsp), your palm (3oz), thumb tip (1 tsp).",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's a serving of fish?",
+             "answer":"A serving of fish is 3-4 ounces (85-113g), about the size of a checkbook.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much cereal is one portion?",
+             "answer":"One serving of cereal is typically 1 cup (30g) for flaked cereals, or 1/2 cup (40g) for denser cereals.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's a serving of butter?",
+             "answer":"One serving of butter is 1 teaspoon (5g), about the size of one die or your fingertip.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How much salad dressing per serving?",
+             "answer":"One serving of salad dressing is 2 tablespoons (30ml), about the size of a ping pong ball.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's a portion of cooked vegetables?",
+             "answer":"One serving of cooked vegetables is 1/2 cup (75-80g), about the size of a computer mouse.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much hummus is one serving?",
+             "answer":"One serving of hummus is 2 tablespoons (30g), about the size of a golf ball.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's a serving of ice cream?",
+             "answer":"One serving of ice cream is 1/2 cup (66g), about the size of a tennis ball.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"How much yogurt is one serving?",
+             "answer":"One serving of yogurt is 1 cup (245g), about the size of a baseball.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"What's a portion of soup?",
+             "answer":"One serving of soup is 1 cup (240ml), about the size of a baseball or standard coffee mug.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How much is a serving of beans?",
+             "answer":"One serving of cooked beans is 1/2 cup (85g), about the size of a light bulb.",
+             "source":"Dietary_Guidelines"
+          }
+       ],
+       "special_diets":[
+          {
+             "question":"What can I eat on a gluten-free diet?",
+             "answer":"Safe foods include rice, quinoa, corn, potatoes, fruits, vegetables, meat, fish, eggs, dairy, beans, and nuts. Avoid wheat, barley, rye, and their derivatives.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What are good protein sources for vegetarians?",
+             "answer":"Vegetarian protein sources include legumes, quinoa, tofu, tempeh, eggs (if eaten), dairy products, nuts, seeds, and whole grains.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can diabetics eat?",
+             "answer":"Focus on non-starchy vegetables, lean proteins, healthy fats, and controlled portions of whole grains. Monitor carbohydrate intake and choose foods with low glycemic index.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What foods are allowed on keto diet?",
+             "answer":"Keto diet includes high-fat foods like meats, fish, eggs, dairy, nuts, seeds, oils, and low-carb vegetables. Avoid grains, sugars, and most fruits.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What can I eat on a low-sodium diet?",
+             "answer":"Focus on fresh fruits, vegetables, unsalted nuts, fresh meat, and home-cooked meals. Avoid processed foods, canned goods (unless low-sodium), and added salt.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What are vegan protein options?",
+             "answer":"Vegan proteins include legumes, tofu, tempeh, seitan, quinoa, nuts, seeds, and plant-based protein powders. Combine different sources for complete protein.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What can I eat on a low-FODMAP diet?",
+             "answer":"Safe foods include rice, quinoa, certain vegetables (carrots, cucumbers), certain fruits (grapes, oranges), meat, fish, eggs, and lactose-free dairy.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What's allowed on Mediterranean diet?",
+             "answer":"Emphasize vegetables, fruits, whole grains, olive oil, fish, legumes, nuts, and moderate wine. Limit red meat and processed foods.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can I eat on a dairy-free diet?",
+             "answer":"Replace dairy with plant-based alternatives like almond milk, coconut milk, soy products, and dairy-free cheese alternatives. Ensure adequate calcium intake.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What foods are good for high cholesterol?",
+             "answer":"Choose foods high in soluble fiber (oats, beans), lean proteins, fatty fish, nuts, and plant sterols. Avoid saturated fats and trans fats.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can I eat on Paleo diet?",
+             "answer":"Focus on meat, fish, eggs, vegetables, fruits, nuts, and seeds. Avoid grains, legumes, dairy, processed foods, and refined sugar.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What's safe during pregnancy?",
+             "answer":"Eat plenty of fruits, vegetables, whole grains, lean proteins, and dairy. Avoid raw fish, unpasteurized dairy, raw eggs, and high-mercury fish.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can someone with IBS eat?",
+             "answer":"Focus on soluble fiber foods, lean proteins, and well-cooked vegetables. Avoid trigger foods, which vary by person but often include caffeine, alcohol, and spicy foods.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What's allowed on DASH diet?",
+             "answer":"Emphasize vegetables, fruits, whole grains, lean proteins, and low-fat dairy. Limit sodium, red meat, and sweets. This diet helps lower blood pressure.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can I eat with lactose intolerance?",
+             "answer":"Choose lactose-free dairy products, hard cheeses (naturally low in lactose), and non-dairy calcium sources. Use enzyme supplements when consuming dairy.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What's good for acid reflux diet?",
+             "answer":"Eat non-acidic fruits, vegetables, lean proteins, and whole grains. Avoid citrus, tomatoes, chocolate, coffee, alcohol, and fatty foods.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What can I eat on Weight Watchers?",
+             "answer":"Any food is allowed but focus on lean proteins, fruits, vegetables, and whole grains. Practice portion control and track points for each food.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What's safe for nut allergies?",
+             "answer":"All foods except nuts and foods containing nuts. Read labels carefully as nuts can be hidden ingredients in processed foods.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What can I eat on a low-carb diet?",
+             "answer":"Focus on proteins (meat, fish, eggs), non-starchy vegetables, cheese, nuts, and healthy fats. Limit or avoid grains, sugars, and starchy foods.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What's allowed on an elimination diet?",
+             "answer":"Start with basic safe foods like rice, select vegetables, lean meats, and water. Gradually reintroduce foods to identify triggers.",
+             "source":"Introduction_to_Human_Nutrition"
+          }
+       ],
+       "meal_planning":[
+          {
+             "question":"How do I plan a balanced meal?",
+             "answer":"A balanced meal should include: 1/4 plate lean protein, 1/4 plate whole grains, 1/2 plate vegetables/fruits, and a small portion of healthy fats.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What should I eat before workout?",
+             "answer":"1-3 hours before exercise, eat carbs (banana, oatmeal, whole grain toast) with some protein. Avoid heavy fats or fiber that might slow digestion.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do I meal prep for a week?",
+             "answer":"Choose 2-3 protein sources, 3-4 vegetables, and 2 whole grains. Cook in bulk, portion into containers. Keep fresh foods for early week, frozen for later.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What's a good post-workout meal?",
+             "answer":"Within 30 minutes after exercise, consume protein (20-30g) and carbs (40-60g). Good options include Greek yogurt with fruit, protein shake with banana.",
+             "source":"High_Protein_Recipe_Pack_One"
+          },
+          {
+             "question":"How do I plan high-protein meals?",
+             "answer":"Include a protein source (3-4oz meat/fish/tofu) at each meal, add eggs or Greek yogurt at breakfast, include legumes or quinoa in lunch/dinner.",
+             "source":"High_Protein_Recipe_Pack_Two"
+          },
+          {
+             "question":"What makes a good breakfast?",
+             "answer":"Include protein (eggs, yogurt), complex carbs (oatmeal, whole grain toast), fruit, and healthy fat (nuts, avocado). Aim for 20-25% of daily calories.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"How do I plan vegetarian meals?",
+             "answer":"Combine legumes with grains for complete protein, include variety of colorful vegetables, add healthy fats from nuts/seeds, ensure B12 through fortified foods.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What should I eat for energy?",
+             "answer":"Focus on complex carbs (whole grains), lean proteins, healthy fats, and plenty of water. Space meals 3-4 hours apart to maintain steady energy.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do I plan low-calorie meals?",
+             "answer":"Fill half plate with non-starchy vegetables, choose lean proteins, limit starchy foods to 1/4 plate, use herbs/spices instead of high-calorie sauces.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What's a good lunch for work?",
+             "answer":"Pack balanced lunch with protein (turkey, tuna, chickpeas), whole grain (bread, quinoa), vegetables, fruit, and healthy fat. Include snacks for energy.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I plan meals for weight loss?",
+             "answer":"Create 500-calorie deficit daily, emphasize protein and fiber, include lots of vegetables, control portions, plan snacks to prevent overeating.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What should I eat before bed?",
+             "answer":"If needed, choose light protein-rich snacks (cottage cheese, handful of nuts) 1-2 hours before bed. Avoid heavy meals and caffeine.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do I plan kid-friendly meals?",
+             "answer":"Include familiar foods with new ones, make colorful plates, involve kids in planning, ensure balance while keeping portions age-appropriate.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's good for meal prep that won't spoil?",
+             "answer":"Choose hardy vegetables (carrots, broccoli), grains (quinoa, rice), legumes, and properly stored proteins. Use airtight containers, refrigerate promptly.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I plan high-fiber meals?",
+             "answer":"Include whole grains, legumes, fruits, vegetables at each meal. Aim for minimum 5g fiber per meal. Increase water intake with higher fiber.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What should athletes eat daily?",
+             "answer":"Plan 5-6 meals/snacks daily, emphasize lean proteins (1.2-2g/kg body weight), complex carbs for energy, adequate healthy fats, and proper hydration.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do I plan quick healthy dinners?",
+             "answer":"Keep quick-cook proteins (fish, eggs), frozen vegetables, canned legumes, quick grains (quinoa) on hand. Use sheet pan or one-pot cooking methods.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What's a good pre-competition meal?",
+             "answer":"3-4 hours before, eat familiar carb-rich foods with moderate protein, low fat and fiber. Example: toast with banana and peanut butter, or rice with chicken.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do I plan budget-friendly meals?",
+             "answer":"Use legumes as protein, buy seasonal produce, incorporate frozen vegetables, buy whole grains in bulk, plan meals around sales, minimize food waste.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What should I eat on rest days?",
+             "answer":"Maintain regular eating pattern but reduce carbohydrates slightly. Focus on protein for recovery, plenty of vegetables, and healthy fats.",
+             "source":"High_Protein_Recipe_Pack_One"
+          }
+       ],
+       "recipe_modifications":[
+          {
+             "question":"How do I make recipes lower in calories?",
+             "answer":"Use less oil/butter, substitute applesauce for oil in baking, increase vegetables, use lean proteins, reduce sugar, control portion sizes.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How can I add more protein to recipes?",
+             "answer":"Add Greek yogurt, egg whites, protein powder to smoothies/baking, incorporate legumes, use higher-protein grains like quinoa, add nuts/seeds.",
+             "source":"High_Protein_Recipe_Pack_One"
+          },
+          {
+             "question":"What can I substitute for eggs in baking?",
+             "answer":"Use mashed banana, applesauce (1/4 cup per egg), ground flaxseed with water (1 tbsp + 3 tbsp water), or commercial egg replacer.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I make recipes gluten-free?",
+             "answer":"Replace wheat flour with gluten-free flour blend, use corn/rice pasta, substitute breadcrumbs with crushed GF cereals or nuts.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What are healthy sugar substitutes?",
+             "answer":"Use mashed ripe bananas, dates, applesauce, stevia, monk fruit sweetener. Reduce sugar gradually and enhance with spices like cinnamon.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I reduce sodium in recipes?",
+             "answer":"Use herbs and spices, citrus juice/zest, vinegar for flavor. Reduce salt gradually, rinse canned foods, choose low-sodium ingredients.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can replace butter in recipes?",
+             "answer":"Use avocado, Greek yogurt, applesauce in baking, olive oil in cooking. For spreading, try nut butters or mashed avocado.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How can I make recipes dairy-free?",
+             "answer":"Use plant-based milk alternatives, coconut cream for heavy cream, dairy-free yogurt, nutritional yeast for cheese flavor.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What's a good meat substitute?",
+             "answer":"Use lentils, mushrooms, jackfruit for texture, tempeh or tofu for protein, beans in chilis/stews. Season well to mimic meat flavors.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I make recipes more fiber-rich?",
+             "answer":"Add beans, use whole grain flour, include more vegetables, add nuts/seeds, keep skins on fruits/vegetables when possible.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can I use instead of bread crumbs?",
+             "answer":"Use crushed nuts, seeds, oats, or vegetables like cauliflower processed fine. For coating, try ground flaxseed or almond flour.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I make recipes keto-friendly?",
+             "answer":"Replace grains with cauliflower rice, use almond/coconut flour, increase healthy fats, substitute sugar with approved sweeteners.",
+             "source":"High_Protein_Recipe_Pack_Two"
+          },
+          {
+             "question":"What can replace pasta in recipes?",
+             "answer":"Use zucchini noodles, spaghetti squash, shirataki noodles, or legume-based pasta. Adjust cooking times accordingly.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I make recipes heart-healthy?",
+             "answer":"Reduce saturated fat, use olive oil, increase fiber with whole grains, add omega-3 sources, reduce sodium, increase vegetables.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What can I use instead of mayo?",
+             "answer":"Use mashed avocado, Greek yogurt, hummus, mustard, or olive oil-based dressings. These provide healthy fats and fewer calories.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How can I thicken sauces without flour?",
+             "answer":"Use pureed vegetables, cornstarch, arrowroot powder, or reduction methods. Greek yogurt works for creamy sauces.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What's a good sweetener for diabetics?",
+             "answer":"Use stevia, monk fruit sweetener, or sugar alcohols like erythritol. Reduce overall sweetener and enhance with spices.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"How do I make baked goods healthier?",
+             "answer":"Use whole grain flour, reduce sugar, add fruits for sweetness, incorporate nuts/seeds, use healthy fats, add protein powder.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"What can I use instead of rice?",
+             "answer":"Use cauliflower rice, quinoa, bulgur, or riced broccoli. These alternatives provide more nutrients and often fewer calories.",
+             "source":"Healthy_Dinners_Cookbook"
+          },
+          {
+             "question":"How do I make recipes more kid-friendly?",
+             "answer":"Hide vegetables in sauces, make fun shapes, use familiar flavors, involve kids in preparation, keep portions appropriate.",
+             "source":"Healthy_Dinners_Cookbook"
+          }
+       ],
+       "common_misconceptions":[
+          {
+             "question":"Does eating late at night cause weight gain?",
+             "answer":"Weight gain is determined by total daily calorie intake, not timing. However, late-night eating may lead to poor food choices or overeating. Focus on total daily calories and food quality.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Are all carbohydrates bad for you?",
+             "answer":"No, complex carbohydrates from whole grains, fruits, and vegetables provide essential nutrients, fiber, and energy. Only refined carbs and added sugars should be limited.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Is a detox diet necessary?",
+             "answer":"The body naturally detoxifies through the liver, kidneys, and digestive system. No special detox diets are needed. Focus on healthy eating and staying hydrated.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Are eggs bad for cholesterol?",
+             "answer":"For most people, eggs can be part of a healthy diet. While they contain cholesterol, they don't significantly impact blood cholesterol in most individuals. They're rich in protein and nutrients.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Do I need to eat every 2-3 hours?",
+             "answer":"No, meal timing is flexible. What matters most is total daily nutrition and listening to your hunger cues. Some do well with 3 meals, others with more frequent smaller meals.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Is brown sugar healthier than white sugar?",
+             "answer":"Brown sugar is white sugar with molasses added. While it contains minimal minerals, it affects blood sugar similarly to white sugar. Both should be limited.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Do I need to avoid gluten if I'm healthy?",
+             "answer":"Unless you have celiac disease or gluten sensitivity, there's no health benefit to avoiding gluten. Whole grain foods containing gluten can be part of a healthy diet.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Are all fats unhealthy?",
+             "answer":"No, healthy fats from sources like olive oil, avocados, nuts, and fish are essential for health. Only trans fats should be avoided, while saturated fats should be limited.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Is organic food always healthier?",
+             "answer":"Organic and conventional produce have similar nutritional values. While organic may have fewer pesticides, both can be part of a healthy diet. Focus on eating more fruits and vegetables.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Do I need protein shakes to build muscle?",
+             "answer":"Protein shakes aren't necessary if you get enough protein from food. Whole food sources provide additional nutrients. Shakes can be convenient but aren't required.",
+             "source":"High_Protein_Recipe_Pack_One"
+          },
+          {
+             "question":"Is fresh produce always better than frozen?",
+             "answer":"Frozen fruits and vegetables can be as nutritious as fresh, sometimes more so as they're frozen at peak ripeness. Both can be healthy choices.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Do calories matter if I eat healthy foods?",
+             "answer":"Yes, calories still matter. Even healthy foods can contribute to weight gain if eaten in excess. Portion control remains important for weight management.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Is sea salt healthier than table salt?",
+             "answer":"Sea salt and table salt have similar sodium content. While sea salt may contain trace minerals, the difference is minimal. Both should be used in moderation.",
+             "source":"Nutritive_Value_of_Foods"
+          },
+          {
+             "question":"Do I need to cut out carbs to lose weight?",
+             "answer":"No, carbs don't need to be eliminated for weight loss. Focus on portion control and choosing complex carbs over refined ones while maintaining a calorie deficit.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Are juice cleanses effective?",
+             "answer":"Juice cleanses aren't necessary and may lack essential nutrients. Any weight loss is usually temporary. Focus on balanced nutrition and adequate hydration.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Is fat-free food always healthier?",
+             "answer":"Fat-free products often contain added sugars or artificial ingredients to improve taste. Some fats are essential for health. Focus on whole foods and healthy fats.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Do supplements replace a healthy diet?",
+             "answer":"No, supplements can't replace the benefits of whole foods. They should supplement, not replace, a balanced diet that includes various nutrients.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Is eating six meals better than three?",
+             "answer":"Neither is inherently better. Total daily nutrition matters more than meal frequency. Choose an eating pattern that works for your lifestyle and helps maintain healthy eating habits.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Do I need to avoid all processed foods?",
+             "answer":"Not all processed foods are unhealthy. Minimally processed foods like canned beans or frozen vegetables can be part of a healthy diet. Focus on limiting heavily processed foods.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Is a low-fat diet always best?",
+             "answer":"Not necessarily. Healthy fats are essential for nutrition. Focus on choosing healthy fats while maintaining appropriate total calorie intake.",
+             "source":"Introduction_to_Human_Nutrition"
+          }
+       ],
+       "edge_cases":[
+          {
+             "question":"Can you create a personal meal plan for me?",
+             "answer":"I can provide general nutrition guidelines, but personal meal plans should be created with healthcare professionals who can consider your specific needs, health conditions, and goals.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"Is this diet good or bad?",
+             "answer":"Rather than labeling diets as good or bad, let's discuss specific nutritional aspects. Consider factors like nutrient balance, sustainability, and how it fits your health needs.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"What supplements should I take?",
+             "answer":"Supplement needs vary by individual. While I can provide information about nutrients, specific supplement recommendations should come from healthcare providers based on your needs.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Will this food cure my condition?",
+             "answer":"While nutrition plays a role in health, no single food cures medical conditions. Work with healthcare providers for medical advice while maintaining a balanced diet.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Is this ingredient toxic?",
+             "answer":"Food safety depends on many factors including preparation and amount. I can provide general nutrition information, but for specific safety concerns, consult reliable food safety resources.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What should I eat for my medical condition?",
+             "answer":"While nutrition is important for health, dietary recommendations for medical conditions should come from healthcare providers who know your specific situation.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Can you diagnose my food allergy?",
+             "answer":"I cannot diagnose allergies or medical conditions. If you suspect a food allergy, consult an allergist for proper testing and diagnosis.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"Will this diet fix everything?",
+             "answer":"No single diet fixes all health issues. While nutrition is important, health involves many factors including exercise, sleep, stress management, and medical care.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Is this food good?",
+             "answer":"Foods aren't simply good or bad. Let's discuss specific nutritional content, how it fits into a balanced diet, and your personal health goals.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's the best diet?",
+             "answer":"There's no single best diet for everyone. The best approach is a balanced, sustainable eating pattern that meets nutritional needs and fits your lifestyle.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Can I eat whatever I want if I exercise?",
+             "answer":"Exercise doesn't negate the need for good nutrition. While it burns calories, your body still needs proper nutrients for health and performance.",
+             "source":"Introduction_to_Human_Nutrition"
+          },
+          {
+             "question":"Why am I not losing weight on this diet?",
+             "answer":"Weight management involves many factors. While I can provide nutrition information, for personal weight loss guidance, consult with healthcare providers.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"Is this enough food?",
+             "answer":"Individual calorie and nutrient needs vary based on age, activity level, health status, and goals. Consult a healthcare provider for personalized recommendations.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What should everyone avoid eating?",
+             "answer":"Apart from spoiled foods, there aren't universal foods to avoid. Focus on balance, moderation, and your individual needs and tolerances.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"Can you tell me if I'm healthy?",
+             "answer":"I can provide nutrition information but cannot assess individual health status. Consult healthcare providers for personal health evaluations.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"Will this food interaction be dangerous?",
+             "answer":"For specific food-drug interactions or safety concerns, consult healthcare providers or pharmacists who know your medical history.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"How much should I weigh?",
+             "answer":"Healthy weight ranges vary by individual factors. For personalized weight guidance, consult healthcare providers who can consider your specific situation.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"Is this enough protein/nutrients?",
+             "answer":"Individual nutrient needs vary. While I can provide general guidelines, consult nutrition professionals for personalized recommendations.",
+             "source":"Dietary_Guidelines"
+          },
+          {
+             "question":"What's wrong with my diet?",
+             "answer":"Rather than judging diets as right or wrong, let's discuss specific nutritional aspects and how they align with established dietary guidelines.",
+             "source":"Training_Guidelines"
+          },
+          {
+             "question":"Can I never eat [food] again?",
+             "answer":"Most foods can fit into a healthy diet in moderation. Focus on overall dietary pattern rather than completely eliminating foods unless medically necessary.",
+             "source":"Dietary_Guidelines"
+          }
+       ]
+    }
+ }
