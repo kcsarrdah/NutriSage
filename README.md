@@ -1,9 +1,10 @@
 # NutriSage
 This project implements a question-answering system for dietary and recipe guidelines using a combination of document embedding, vector search, and language model-based generation.
 
-![App Dark Theme Screenshot](image/App Screenshot.png)
-![App Light Theme Screenshot](image/Demo Text.png)
-![App Demo Text Screenshot](image/Light Theme Screenshot.png)
+## Screenshots
+![App Dark Theme Screenshot](https://github.com/kcsarrdah/NutriSage/blob/main/image/App%20Screenshot.png)
+![App Light Theme Screenshot](https://github.com/kcsarrdah/NutriSage/blob/main/image/Light%20Theme%20Screenshot.png)
+![App Demo Text Screenshot](https://github.com/kcsarrdah/NutriSage/blob/main/image/Demo%20Text.png)
 
 ## Setup
 
