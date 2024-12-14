@@ -1,21 +1,19 @@
-# NutriNudge
-This project implements a question-answering system for dietary guidelines using a combination of document embedding, vector search, and language model-based generation.
+# NutriSage
+This project implements a question-answering system for dietary and recipe guidelines using a combination of document embedding, vector search, and language model-based generation.
 
-![App Screenshot](image/app_screenshot.png)
-
-[Read the NutriNudge Report](data/NutriNudge_report.pdf)
-
-[Watch the NutriNudge Demo](https://youtu.be/hdCxrvGKoo4)
+![App Dark Theme Screenshot](image/App Screenshot.png)
+![App Light Theme Screenshot](image/Demo Text.png)
+![App Demo Text Screenshot](image/Light Theme Screenshot.png)
 
 ## Setup
 
 1. Clone the repository:
 ```
-git clone https://github.com/chakraborty-arnab/NutriNudge.git
+git clone https://github.com/kcsarrdah/NutriSage.git
 ```
 2. Move into the Folder:
 ```
-cd NutriNudge
+cd NutriSage
 ```
 3. Install the required dependencies:
 ```
@@ -30,7 +28,7 @@ ollama pull llama3
 
 ## Creating the Vector Database
 
-1. Ensure you have the PDF file `Dietary_Guidelines_for_Americans_2020-2025.pdf` in the `data/` directory.
+1. Ensure you have all the PDFs file in the `data/` directory.
 
 2. Run the script to create the vector database:
 ```

@@ -260,24 +260,27 @@ with st.sidebar:
     • Explore healthy eating patterns
     """)
 
+    st.markdown("### ❌ What You Can't Do")
+    st.markdown("""
+    • Don't ask questions like 'What is Kubernetes?'
+    • About Tide pods
+    • About F-1 racing
+    """)
+
     # How to Use Section
     st.markdown("### 💡 How to Use")
     st.markdown("""
-    1. Type your nutrition question
+    1. Type your Nutrition or Recipe related question
     2. Click "Get Answer" button
     3. View the detailed context if needed
     4. Adjust theme for better viewing
     """)
 
-    # Data Source Section
-    st.markdown("### 📚 Data Source")
-    st.markdown("Based on the Dietary Guidelines for Americans 2020-2025.")
-
 # Main UI
-st.title("🍽️ NutriSage: Dietary Guidelines Q&A")
+st.title("🥗 Welcome to NutriSage: Your Personalized Nutrition Companion!")
 
-st.markdown('<p class="big-font">Ask a question about dietary guidelines:</p>', unsafe_allow_html=True)
-query = st.text_input("", placeholder="e.g., What are the main food groups?")
+st.markdown('<p class="big-font">Ask anything about healthy eating, and let NutriSage guide you to smarter dietary choices!</p>', unsafe_allow_html=True)
+query = st.text_input("", placeholder="e.g., What are the main food groups? or Calories in burgers?")
 
 if st.button("Get Answer"):
     if query:
@@ -291,7 +294,10 @@ if st.button("Get Answer"):
         st.warning("Please enter a question.")
 
 st.markdown("---")
-st.markdown("Source: [Dietary Guidelines for Americans 2020-2025](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf)")
+# st.markdown("Source: [Dietary Guidelines for Americans 2020-2025](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf)")
+# Data Source Section
+st.markdown("### 📚 Data Source")
+st.markdown("Source: [Dietary Guidelines for Americans 2020-2025](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf), [Healthy_Dinners_Cookbook](https://healthyeating.nhlbi.nih.gov/pdfs/dinners_cookbook_508-compliant.pdf), [High_Protein_Recipe_Pack_One](https://www.trueconditioning.com/wp-content/uploads/2022/07/High-Protein-Recipes-TC.pdf), [High_Protein_Recipe_Pack_Two](https://vanessabhealth.com/wp-content/uploads/2023/09/Copy-of-High-Protein-Recipe-Pack.pdf), [Introduction_to_Human_Nutrition](https://repository.poltekkes-kaltim.ac.id/1151/1/Introduction%20to%20Human%20Nutrition%202nd%20Edition%20(%20PDFDrive%20).pdf), [Nutritive_Value_of_Foods](https://www.ars.usda.gov/is/np/NutritiveValueofFoods/NutritiveValueofFoods.pdf), [Total_Kcal_Data](https://www.nal.usda.gov/sites/default/files/page-files/Total%20Kcal.pdf)")
 
 # Simplified footer
 st.markdown("---")
